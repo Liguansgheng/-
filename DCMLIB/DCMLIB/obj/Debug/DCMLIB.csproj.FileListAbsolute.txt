@@ -1,0 +1,5 @@
+F:\Vsprojects\DCMLIB\DCMLIB\bin\Debug\DCMLIB.dll
+F:\Vsprojects\DCMLIB\DCMLIB\bin\Debug\DCMLIB.pdb
+F:\Vsprojects\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csprojResolveAssemblyReference.cache
+F:\Vsprojects\DCMLIB\DCMLIB\obj\Debug\DCMLIB.dll
+F:\Vsprojects\DCMLIB\DCMLIB\obj\Debug\DCMLIB.pdb

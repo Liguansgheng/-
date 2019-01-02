@@ -1,0 +1,12 @@
+F:\Vsprojects\DCMLIB\DicomParser\bin\Debug\DicomParser.exe.config
+F:\Vsprojects\DCMLIB\DicomParser\bin\Debug\DicomParser.exe
+F:\Vsprojects\DCMLIB\DicomParser\bin\Debug\DicomParser.pdb
+F:\Vsprojects\DCMLIB\DicomParser\bin\Debug\DCMLIB.dll
+F:\Vsprojects\DCMLIB\DicomParser\bin\Debug\DCMLIB.pdb
+F:\Vsprojects\DCMLIB\DicomParser\obj\Debug\DicomParser.csprojResolveAssemblyReference.cache
+F:\Vsprojects\DCMLIB\DicomParser\obj\Debug\DicomParser.Properties.Resources.resources
+F:\Vsprojects\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.GenerateResource.Cache
+F:\Vsprojects\DCMLIB\DicomParser\obj\Debug\DicomParser.exe
+F:\Vsprojects\DCMLIB\DicomParser\obj\Debug\DicomParser.pdb
+F:\Vsprojects\DCMLIB\DicomParser\obj\Debug\DicomParser.DicomParser.resources
+F:\Vsprojects\DCMLIB\DicomParser\obj\Debug\DicomParser.frmImage.resources
