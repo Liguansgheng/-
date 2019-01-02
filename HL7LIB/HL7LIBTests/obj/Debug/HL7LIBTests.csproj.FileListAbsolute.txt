@@ -1,0 +1,9 @@
+F:\Vsprojects\HL7LIB\HL7LIBTests\bin\Debug\HL7LIBTests.dll
+F:\Vsprojects\HL7LIB\HL7LIBTests\bin\Debug\HL7LIBTests.pdb
+F:\Vsprojects\HL7LIB\HL7LIBTests\bin\Debug\HL7LIB.dll
+F:\Vsprojects\HL7LIB\HL7LIBTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Vsprojects\HL7LIB\HL7LIBTests\bin\Debug\HL7LIB.pdb
+F:\Vsprojects\HL7LIB\HL7LIBTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Vsprojects\HL7LIB\HL7LIBTests\obj\Debug\HL7LIBTests.csprojResolveAssemblyReference.cache
+F:\Vsprojects\HL7LIB\HL7LIBTests\obj\Debug\HL7LIBTests.dll
+F:\Vsprojects\HL7LIB\HL7LIBTests\obj\Debug\HL7LIBTests.pdb

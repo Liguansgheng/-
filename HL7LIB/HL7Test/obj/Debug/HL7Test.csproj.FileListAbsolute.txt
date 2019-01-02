@@ -1,0 +1,11 @@
+F:\Vsprojects\HL7LIB\HL7Test\bin\Debug\HL7Test.exe.config
+F:\Vsprojects\HL7LIB\HL7Test\bin\Debug\HL7Test.exe
+F:\Vsprojects\HL7LIB\HL7Test\bin\Debug\HL7Test.pdb
+F:\Vsprojects\HL7LIB\HL7Test\bin\Debug\HL7LIB.dll
+F:\Vsprojects\HL7LIB\HL7Test\bin\Debug\HL7LIB.pdb
+F:\Vsprojects\HL7LIB\HL7Test\obj\Debug\HL7Test.csprojResolveAssemblyReference.cache
+F:\Vsprojects\HL7LIB\HL7Test\obj\Debug\HL7Test.HL7Text.resources
+F:\Vsprojects\HL7LIB\HL7Test\obj\Debug\HL7Test.Properties.Resources.resources
+F:\Vsprojects\HL7LIB\HL7Test\obj\Debug\HL7Test.csproj.GenerateResource.Cache
+F:\Vsprojects\HL7LIB\HL7Test\obj\Debug\HL7Test.exe
+F:\Vsprojects\HL7LIB\HL7Test\obj\Debug\HL7Test.pdb

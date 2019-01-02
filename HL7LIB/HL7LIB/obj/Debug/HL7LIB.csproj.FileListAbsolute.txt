@@ -1,0 +1,5 @@
+F:\Vsprojects\HL7LIB\HL7LIB\bin\Debug\HL7LIB.dll
+F:\Vsprojects\HL7LIB\HL7LIB\bin\Debug\HL7LIB.pdb
+F:\Vsprojects\HL7LIB\HL7LIB\obj\Debug\HL7LIB.csprojResolveAssemblyReference.cache
+F:\Vsprojects\HL7LIB\HL7LIB\obj\Debug\HL7LIB.dll
+F:\Vsprojects\HL7LIB\HL7LIB\obj\Debug\HL7LIB.pdb
